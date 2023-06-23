@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on developing an app for college contest.
-- 🌱 I’m currently learning Flutter and Java.
+- 🔭 I’m currently working on developing a figma portfolio.
+- 🌱 I’m currently learning UI/UX design.
 - 💬 Ask me about new ideas or how to make existing ones work.
-- 📫 How to reach me: manaskhandelwal111@gmail.com
+- 📫 How to reach me: manas.khandelwal@iiitg.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also have a youtube channel called Summarise and Memorise.
 
