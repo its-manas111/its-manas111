@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on developing a figma portfolio.
+- 🔭 I’m currently working on developing a react website.
 - 🌱 I’m currently learning UI/UX design.
 - 💬 Ask me about new ideas or how to make existing ones work.
 - 📫 How to reach me: manas.khandelwal@iiitg.ac.in
